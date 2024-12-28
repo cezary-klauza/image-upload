@@ -11,6 +11,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Image Upload",
   description: "Here you can upload and share your images!",
+  icons: {
+    icon: "/logo-small.svg",
+  },
 };
 
 export default function RootLayout({
