@@ -9,7 +9,7 @@ ImageUpload is an app that allows you to share your photo with friends! You can 
 1. Download repository
 
 ```bash
-git clone
+git clone https://github.com/cezary-klauza/image-upload.git
 ```
 
 2. Install dependencies
