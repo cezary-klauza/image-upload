@@ -1,4 +1,4 @@
-![logo](/public/logo.svg)
+![logo](/public/logo-small.svg)
 
 ## Getting Started
 
