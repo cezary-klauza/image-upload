@@ -15,10 +15,16 @@ git clone https://github.com/cezary-klauza/image-upload.git
 2. Install dependencies
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
-3. Run local server
+3. Create UploadThing project nad add token to your .env.local file
+
+```env
+UPLOADTHING_TOKEN=*********
+```
+
+4. Run local server
 
 ```bash
 npm run dev
@@ -29,3 +35,4 @@ npm run dev
 - Next.js
 - Tailwind CSS
 - UploadThing
+
